@@ -12,10 +12,7 @@ This task involved cleaning and preprocessing the Customer Personality dataset f
 - Fixed data types
 - Saved cleaned dataset
 
-## Files Included
-- `Customer.csv`: Original dataset
-- `clean_data.py`: Python script used for cleaning
-- `cleaned_customer_data.csv`: Final cleaned dataset
+
 
 ## Tools Used
 - Python
